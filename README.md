@@ -52,6 +52,6 @@ html · figma · adobe · ux systems · airtable
 
 ## contact
 
-email: barney.smith.ny@gmail.com  
+email: barney.smith@gwmail.gwu.edu  
 linkedin: linkedin.com/in/barney-smith11/  
 portfolio: barneysmith-sys.github.io/Portfolio/
