@@ -1,6 +1,6 @@
 # hey, i'm barney 👋
 
-i care about creating things people feel.
+i like building things that improve real-world experiences
 
 marketing & business analytics student @ george washington university  
 incoming digital marketing intern @ l’oréal
@@ -13,15 +13,16 @@ incoming digital marketing intern @ l’oréal
 <summary>l’oréal, product development</summary>
 
 2-in-1 men’s grooming concept built from behavioral insights  
-l’oréal-owned ip, under manufacturing exploration  
+l’oréal-owned ip under manufacturing exploration  
+#1 u.s. across 10,000+ teams, top 10 globally (242k+ entrants)
 
 </details>
 
 <details>
 <summary>saint, experience design lead (saint.nyc)</summary>
 
-ux + interface design for sauna control system  
-designed luxury guest flow across physical + digital experience  
+ux and interface design for sauna control system  
+designed end-to-end luxury guest experience across physical and digital touchpoints  
 
 </details>
 
@@ -36,7 +37,7 @@ focused on reducing friction in access, scheduling, and supply
 <details>
 <summary>g&s solar, data analyst</summary>
 
-data analysis for operational optimization  
+operational data analysis for process optimization  
 identified inefficiencies and supported decision-making  
 
 </details>
