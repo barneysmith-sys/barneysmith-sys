@@ -10,7 +10,7 @@ incoming digital marketing intern @ l’oréal
 ## projects
 
 <details>
-<summary>l’oréal — product development</summary>
+<summary>l’oréal, product development</summary>
 
 2-in-1 men’s grooming concept built from behavioral insights  
 l’oréal-owned ip, under manufacturing exploration  
@@ -18,7 +18,7 @@ l’oréal-owned ip, under manufacturing exploration
 </details>
 
 <details>
-<summary>saint — experience design lead (saint.nyc)</summary>
+<summary>saint, experience design lead (saint.nyc)</summary>
 
 ux + interface design for sauna control system  
 designed luxury guest flow across physical + digital experience  
@@ -34,7 +34,7 @@ focused on reducing friction in access, scheduling, and supply
 </details>
 
 <details>
-<summary>g&s solar — data analyst</summary>
+<summary>g&s solar, data analyst</summary>
 
 data analysis for operational optimization  
 identified inefficiencies and supported decision-making  
