@@ -38,7 +38,7 @@ focused on reducing friction in access, scheduling, and supply
 <summary>g&s solar, data analyst</summary>
 
 operational data analysis for process optimization  
-identified inefficiencies and supported decision-making  
+used excel and helioscope to identify inefficiencies and support decision-making
 
 </details>
 
