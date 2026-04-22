@@ -1,16 +1,56 @@
-## Hi there 👋
+# hey, i'm barney 👋
 
-<!--
-**barneysmith-sys/barneysmith-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i care about creating things people feel.
 
-Here are some ideas to get you started:
+marketing & business analytics student @ george washington university  
+incoming digital marketing intern @ l’oréal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## projects
+
+<details>
+<summary>l’oréal — product development</summary>
+
+2-in-1 men’s grooming concept built from behavioral insights  
+l’oréal-owned ip, under manufacturing exploration  
+
+</details>
+
+<details>
+<summary>saint — experience design lead (saint.nyc)</summary>
+
+ux + interface design for sauna control system  
+designed luxury guest flow across physical + digital experience  
+
+</details>
+
+<details>
+<summary>linkly</summary>
+
+on-demand marketplace connecting students with aesthetic services  
+focused on reducing friction in access, scheduling, and supply  
+
+</details>
+
+<details>
+<summary>g&s solar — data analyst</summary>
+
+data analysis for operational optimization  
+identified inefficiencies and supported decision-making  
+
+</details>
+
+---
+
+## design + tools
+
+html · figma · adobe · ux systems · airtable
+
+---
+
+## contact
+
+email: barney.smith.ny@gmail.com  
+linkedin: linkedin.com/in/barney-smith11/  
+portfolio: barneysmith-sys.github.io/Portfolio/
