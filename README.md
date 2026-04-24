@@ -46,7 +46,7 @@ used excel and helioscope to identify inefficiencies and support decision-making
 
 ## design + tools
 
-html · figma · adobe · ux systems · airtable
+html · css ·  figma · adobe · ux systems · airtable
 
 ---
 
