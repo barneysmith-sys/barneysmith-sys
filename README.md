@@ -45,7 +45,7 @@ used excel and helioscope to identify inefficiencies and support decision-making
 <details>
 <summary>mocha</summary>
 
-Mocha is an AI-powered behavioral interview simulator that recreates realistic, high-pressure interview environments with adaptive follow-up questions and structured feedback. It helps users improve clarity, storytelling, and thinking under pressure, and is currently in beta across 14+ colleges.
+AI interview simulator that recreates real, high-pressure behavioral interviews with adaptive follow-ups and feedback. Built to improve clarity, storytelling, and thinking under pressure. Used in beta across 14+ colleges.
 
 </details>
 ---
