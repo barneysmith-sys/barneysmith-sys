@@ -1,63 +1,48 @@
-# hey, i'm barney 👋
 
-i like building things that improve real-world experiences
+# Barney Smith
 
-marketing & business analytics student @ george washington university  
-incoming digital marketing intern @ l’oréal
+**Founder & builder.** Incoming Founder in Residence at [Entrepreneurs First](https://www.joinef.com/).
 
----
+Studying Business, Marketing & Analytics at George Washington University, with coursework at Georgetown University.
 
-## projects
+Previously worked across product, AI, and growth at L'Oréal, HumanX, and early-stage ventures.
 
-<details>
-<summary>l’oréal, product development</summary>
-
-2-in-1 men’s grooming concept built from behavioral insights  
-l’oréal-owned ip under manufacturing exploration  
-#1 u.s. across 10,000+ teams, top 10 globally (242k+ entrants)
-
-</details>
-
-<details>
-<summary>saint, experience design lead (saint.nyc)</summary>
-
-ux and interface design for sauna control system  
-designed end-to-end luxury guest experience across physical and digital touchpoints  
-
-</details>
-
-<details>
-<summary>linkly</summary>
-
-on-demand marketplace connecting students with aesthetic services  
-focused on reducing friction in access, scheduling, and supply  
-
-</details>
-
-<details>
-<summary>g&s solar, data analyst</summary>
-
-operational data analysis for process optimization  
-used excel and helioscope to identify inefficiencies and support decision-making
-
-</details>
-
-<details>
-<summary>mocha</summary>
-
-AI interview simulator that recreates real, high-pressure behavioral interviews with adaptive follow-ups and feedback. Built to improve clarity, storytelling, and thinking under pressure. Used in beta across 14+ colleges.
-
-</details>
----
-
-## design + tools
-
-html · css ·  figma · adobe · ux systems · airtable
+Currently interested in autonomous systems, applied AI, and building software that solves real-world problems.
 
 ---
 
-## contact
+### Building
 
-email: barney.smith@gwmail.gwu.edu  
-linkedin: linkedin.com/in/barney-smith11/  
-portfolio: https://barneyjsmith.com/
+**[Mocha](https://usemocha.app)**  
+Adaptive AI interview intelligence. Simulates real interviews with dynamic follow-ups, structured evaluations, and personalized feedback.
+
+`3,000+ users` · `23 universities` · `57% weekly retention`
+
+**[STRATA / Fly](https://barneysmith-sys.github.io/fly/)**  
+Interactive quadcopter flight simulator exploring flight dynamics, control systems, and autonomous aviation.
+
+**Elestar**  
+AI-native hiring infrastructure. Exploring how intelligent agents can evaluate candidates through demonstrated ability rather than traditional credentials.
+
+---
+
+### Previously
+
+**Entrepreneurs First** — Incoming Founder in Residence  
+**Figma** — Campus Leader  
+**L'Oréal Groupe** — Digital Marketing, Professional Products Division  
+**HumanX** — Agentic AI Pavilion Co-Lead
+
+Built a consumer product concept that won first place in the U.S. at L'Oréal Brandstorm and reached the global Top 10 in Paris.
+
+---
+
+### Interests
+
+Applied AI · Autonomous Systems · Simulation · Product Engineering · Human-Computer Interaction
+
+---
+
+### Elsewhere
+
+[Website](https://barneyjsmith.com) · [LinkedIn](https://linkedin.com/in/barney-smith11/) · [X](https://x.com/barneycreates) · [Email](mailto:barney.smith@gwmail.gwu.edu)
