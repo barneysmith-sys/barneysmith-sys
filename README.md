@@ -4,7 +4,7 @@
 
 Incoming Founder in Residence at [Entrepreneurs First](https://www.joinef.com/), joining the San Francisco cohort in January 2027.
 
-Studying Business Administration (Marketing & Business Analytics) at [George Washington University](https://www.gwu.edu/), with coursework at [Georgetown University](https://www.georgetown.edu/).
+Studying Business & Analytics at [George Washington University](https://www.gwu.edu/), and Ethics at [Georgetown University](https://www.georgetown.edu/).
 
 Interested in building useful technology, exploring emerging systems, and turning complex problems into software.
 
